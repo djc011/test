@@ -1,0 +1,17 @@
+Runtime error from program:c:\users\hp\desktop\hf\hf.exe
+ in file hf.f95 at line 86
+Floating point co-processor fault at address 0040291d
+ in file hf.f95 at line 86
+
+ main -  in file hf.f95 at line 86 [+191d]
+
+eax=0361f640   ebx=00000028   ecx=00000028
+edx=00000030   esi=0361f500   edi=0361f4f8
+ebp=0361fce0   esp=0361e5c8   IOPL=0
+ds=002b   es=002b   fs=0053
+gs=002b   cs=0023   ss=002b
+flgs=00010206 [NC EP NZ SN DN NV]
+
+ 0040291d  dfstp    [ebp-0x650+ebx*8] 
+ 00402924  wait      
+ 00402925  mov      ecx,[ebp-0x14a0] 

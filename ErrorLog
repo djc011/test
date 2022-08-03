@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\HF\distance.F95(10) : warning 868 - Opening unit 1 may affect the operation of input from the default unit '*' - are you sure you want to do this?
+C:\Users\HP\Desktop\HF\distance.F95(15) : warning 868 - Closing unit 1 may affect the operation of input from the default unit '*' - are you sure you want to do this?
+C:\Users\HP\Desktop\HF\distance.F95(8) : warning 242 - Variable ANGLE_OOP has been given a value but never used
+C:\Users\HP\Desktop\HF\distance.F95(8) : warning 242 - Variable EKLM_Z has been given a value but never used
+Creating executable: C:\Users\HP\Desktop\HF\distance.EXE
